@@ -1,3 +1,5 @@
+Hello I am adding some text to this file
+
 Why is Learning to Code So Hard?
 
 December 2012
